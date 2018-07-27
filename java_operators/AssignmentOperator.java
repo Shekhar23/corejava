@@ -40,9 +40,6 @@ public class AssignmentOperator {
 		int y = a + b * d - 5;
 		System.out.println("value of x " + y);
 	}
-	// used for assign value of expression to variable.
-	private void compactNotation() {
-		
-	}
+ 
 
 }
